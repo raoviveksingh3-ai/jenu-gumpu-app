@@ -1,1 +1,42 @@
-*.zip
+# Gradle
+.gradle/
+build/
+*.apk
+*.ap_
+*.aab
+
+# Android Studio
+.idea/
+.DS_Store
+*.iml
+*.iws
+*.ipr
+local.properties
+
+# Kotlin
+.kotlin/
+out/
+
+# Firebase
+google-services.json
+google-services-debug.json
+
+# Environment files
+.env
+.env.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# Generated files
+.cxx/
+
+# Pro37 files (remove large files)
+pro37.zip

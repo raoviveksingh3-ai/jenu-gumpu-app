@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jenu Gumpu</string>
+    <string name="welcome">Welcome to Jenu Gumpu</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone Number</string>
+    <string name="otp">OTP</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="harvest_log">Harvest Log</string>
+    <string name="grading">AI Grading</string>
+    <string name="prices">Price Monitor</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="batch_tracker">Batch Tracker</string>
+    <string name="collective_stock">Collective Stock</string>
+    <string name="total_kg">Total (KG)</string>
+</resources>
